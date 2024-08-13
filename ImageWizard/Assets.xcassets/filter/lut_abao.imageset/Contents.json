@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "lut_abao.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

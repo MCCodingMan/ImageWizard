@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "生成一个图片滤镜的图标，大小为1024，背景颜色为渐变色.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

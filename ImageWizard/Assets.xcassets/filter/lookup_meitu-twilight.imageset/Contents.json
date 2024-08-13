@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "lookup_meitu-twilight.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

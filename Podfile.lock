@@ -1,0 +1,65 @@
+PODS:
+  - BBMetalImage (1.2.0)
+  - Harbeth (1.2.0):
+    - Harbeth/Basic (= 1.2.0)
+    - Harbeth/Compute (= 1.2.0)
+    - Harbeth/CoreImage (= 1.2.0)
+    - Harbeth/MPS (= 1.2.0)
+    - Harbeth/SwiftUI (= 1.2.0)
+  - Harbeth/Basic (1.2.0)
+  - Harbeth/Compute (1.2.0):
+    - Harbeth/Basic
+  - Harbeth/CoreImage (1.2.0):
+    - Harbeth/Basic
+  - Harbeth/MPS (1.2.0):
+    - Harbeth/Basic
+  - Harbeth/SwiftUI (1.2.0):
+    - Harbeth/Basic
+  - MetalPetal/Core (1.25.2)
+  - MetalPetal/Swift (1.25.2):
+    - MetalPetal/Core
+  - SQLite.swift (0.15.3):
+    - SQLite.swift/standard (= 0.15.3)
+  - SQLite.swift/standard (0.15.3)
+  - SVProgressHUD (2.3.1):
+    - SVProgressHUD/Core (= 2.3.1)
+  - SVProgressHUD/Core (2.3.1)
+  - TesseractOCRiOS (5.0.1)
+
+DEPENDENCIES:
+  - BBMetalImage
+  - Harbeth (from `https://github.com/yangKJ/Harbeth.git`)
+  - MetalPetal/Swift
+  - SQLite.swift
+  - SVProgressHUD
+  - TesseractOCRiOS
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - BBMetalImage
+    - TesseractOCRiOS
+  trunk:
+    - MetalPetal
+    - SQLite.swift
+    - SVProgressHUD
+
+EXTERNAL SOURCES:
+  Harbeth:
+    :git: https://github.com/yangKJ/Harbeth.git
+
+CHECKOUT OPTIONS:
+  Harbeth:
+    :commit: ccefd20cdd1e43657b584954fa17e58ff813021e
+    :git: https://github.com/yangKJ/Harbeth.git
+
+SPEC CHECKSUMS:
+  BBMetalImage: 26873444685a9e9bae8d2c22aaccffcd29d9796c
+  Harbeth: 73d704e1edda98db65b80d1cb35b23fff79f6c70
+  MetalPetal: 001513fa0b0f6d4f147aa2651d40c594f2eacb01
+  SQLite.swift: 8d054987f02728cc912b0eb5a9659650573a65a2
+  SVProgressHUD: 4837c74bdfe2e51e8821c397825996a8d7de6e22
+  TesseractOCRiOS: 2c189465f86abb030d0c5141c90da9705b647854
+
+PODFILE CHECKSUM: 6e89233d12b4f3d87b456d4ee7feee79c78bb6a0
+
+COCOAPODS: 1.15.2

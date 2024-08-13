@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "lookup_B612-happy.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
